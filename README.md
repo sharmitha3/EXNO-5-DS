@@ -146,6 +146,7 @@ plt.show()
 ![image](https://github.com/sharmitha3/EXNO-5-DS/assets/145974496/9f994cbd-ab39-40bb-ad4a-313add274291)
 ![image](https://github.com/sharmitha3/EXNO-5-DS/assets/145974496/fe931589-a814-4ac6-aa08-7af6db44235a)
 ![image](https://github.com/sharmitha3/EXNO-5-DS/assets/145974496/6f6deb40-eae7-4921-bcca-35803663a307)
+
 ![image](https://github.com/sharmitha3/EXNO-5-DS/assets/145974496/81550a4f-034d-4e23-8761-9cc78c77997f)
 
 # Result:
